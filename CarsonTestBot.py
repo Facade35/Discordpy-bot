@@ -20,5 +20,5 @@ async def ping(ctx):
     
 
 
-bot.run("Njc5OTMzMTU4NzQ1MDQ3MDQx.Xk74Cg.B0YizMQDWQYH9IFFrdd51IghLA0")
+bot.run("*************************************)
 
